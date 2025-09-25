@@ -1,5 +1,3 @@
-# Currency-Rates-Update
-
 # Currency Rate Sync for Business Central (USD → CAD)
 
 This Power Automate flow automatically updates or creates **Currency Exchange Rates** in Dynamics 365 Business Central (Table 330) for **USD → CAD** on a daily basis.
